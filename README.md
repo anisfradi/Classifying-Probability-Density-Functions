@@ -1,8 +1,6 @@
 # Classifying-Probability-Density-Functions
 
-# Python Demo: Classifying probability density functions
-
-This Python demo provides an implementation of the "Classifying probability density functions" method 
+This Python code provides an implementation of the "Classifying probability density functions" method 
 
 ## Table of Contents
 
